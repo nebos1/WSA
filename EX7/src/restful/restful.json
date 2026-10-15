@@ -1,0 +1,22 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "T-shirt",
+            "price": 10.3,
+            "img": "tshirt.svg"
+        },
+        {
+            "id": 2,
+            "name": "Sweatshirt",
+            "price": 27.1,
+            "img": "sweatshirt.svg"
+        },
+        {
+            "id": 3,
+            "name": "Cap",
+            "price": 12.5,
+            "img": "cap.svg"
+        }
+    ]
+}
